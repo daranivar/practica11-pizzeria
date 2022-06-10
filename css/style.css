@@ -43,6 +43,7 @@
     width: 490px;
     height: 350px;
     font-weight: bold;
+    border-radius: 7px;
 }
 .textocentrado{
     color: red;
