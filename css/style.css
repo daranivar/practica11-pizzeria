@@ -83,4 +83,13 @@ span{
     margin-top: 60px;
     margin-right: 30px;
 }
-
+.menu1{
+    order:1 ;
+}
+.menu2{
+    order:3 ;
+}.menu3{
+    order:4 ;
+}.menu4{
+    order:2;
+}
